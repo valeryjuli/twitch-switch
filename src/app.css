@@ -1,0 +1,5 @@
+.application-wrapper {
+  display: flex;
+  flex-direction: row;
+  font-family: 'Poppins', sans-serif;
+}

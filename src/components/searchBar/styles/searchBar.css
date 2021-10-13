@@ -1,0 +1,8 @@
+.search-bar-segment {
+  display: flex;
+  align-items: center;
+}
+
+.search-bar-container, .search-bar-input-wrap  {
+  width: 100%;
+}
