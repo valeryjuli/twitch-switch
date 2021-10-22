@@ -1,0 +1,14 @@
+.main-dashboard {
+  background: #18043A;
+  width: 85vw;
+  height: 100vh;
+  padding: 15px;
+  color: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  gap: 4vh;
+}
+
+h2 {
+  margin: 0;
+}

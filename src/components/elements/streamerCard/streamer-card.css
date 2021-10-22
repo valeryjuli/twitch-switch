@@ -1,0 +1,47 @@
+
+.streamer-card-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: #FFFFFF;
+  gap: 1vh;
+}
+
+.streamer-card-led {
+  margin-left: 1vw;
+}
+
+.streamer-card-username {
+  margin-left: 2px;
+  font-size: 1.5vh;
+}
+
+.streamer-card-views-count {
+  margin-left: 2px;
+  font-size: 1.1vh;
+  font-weight: bold;
+}
+
+.streamer-profile-img {
+  border: 0.348664px solid #32126D;
+  border-radius: 20px;
+}
+
+.streamer-card-details {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.streamer-card-user-status   {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.streamer-card-views {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

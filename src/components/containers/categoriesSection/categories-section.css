@@ -1,0 +1,8 @@
+.categories-menu-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 22px;
+  gap: 2vh;
+}

@@ -1,6 +1,5 @@
 import React from "react";
-import { NavigationBar } from "./components";
-import { MainDashboard } from "./components/mainDashboard";
+import { NavigationBar, MainDashboard } from "./views";
 
 require('./app.css');
 /**

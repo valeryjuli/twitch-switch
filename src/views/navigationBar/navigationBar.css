@@ -1,0 +1,22 @@
+.navigation-bar {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 15vw;
+  height: 100vh;
+  background: #32126D;
+  gap: 1vh;
+}
+
+/* Logo */
+
+.logo {
+  width: 120px;
+  height: 85px;
+  margin: 3vh;
+}
+
+/* Categories Menu */
+
+/* Streamer Card */
