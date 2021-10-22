@@ -1,1 +1,1 @@
-# react-smart-player
+# TwitchSwitch
