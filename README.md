@@ -6,4 +6,4 @@ React application to create custom twitch streaming groups and easily switch in-
 
 The web design UI, logo and mockups were done with Figma https://www.figma.com/community/file/1035427825791667208/TwitchSwitch
 
-<img src="./assets/LandingPage.png">
+<img src="./public/assets/LandingPage.png">
